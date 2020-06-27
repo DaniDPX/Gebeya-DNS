@@ -1,0 +1,25 @@
+{
+  "name": "gebeya-dns",
+  "version": "1.0.0",
+  "description": "This modulue",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DaniDPX/Gebeya-DNS.git"
+  },
+  "keywords": [
+    "DNS",
+    "lookup",
+    "IP",
+    "Port"
+  ],
+  "author": "DaniDPX",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DaniDPX/Gebeya-DNS/issues"
+  },
+  "homepage": "https://github.com/DaniDPX/Gebeya-DNS#readme"
+}
